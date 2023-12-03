@@ -1,0 +1,18 @@
+PCA9685 -> Arduino Nano
+
+VCC	-> 5V 
+SDA	-> A4
+SCL	-> A5
+OE	-> GND
+GND	-> GND
+
+Power Supply for Servos on PCA9685
+
+V+ -> Vout+ of Step Down Converter
+V- -> Vout- of Step Down Converter
+	
+EMG SENSOR -> Arduino Nano
+	   
+Vout	   -> A0 
+Vcc	   -> 5V
+GND	   -> GND
